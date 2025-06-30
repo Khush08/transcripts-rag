@@ -1,0 +1,8 @@
+# Ignore files and folders for Prettier formatting
+# Include everything from .gitignore
+node_modules/
+dist/
+.env
+# ...other patterns from .gitignore...
+
+# Add any Prettier-specific ignores below
